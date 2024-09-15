@@ -1,0 +1,7 @@
+El promedio de temperaturas de Ciudad A es: 30.50°C
+El promedio de temperaturas de Ciudad B es: 25.50°C
+El promedio de temperaturas de Ciudad C es: 20.50°C
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
